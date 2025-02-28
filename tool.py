@@ -14,6 +14,11 @@ async def main():
         "message": "Please enter your Obot Hackathon Votes.",
         "fields": [
             {
+                "name": "Your Name",
+                "sensitive": False,
+                "description": "Your first name, used to track votes"
+            },
+            {
                 "name": "First Place",
                 "sensitive": False,
                 "description": "This selection will be awarded 3 points"
