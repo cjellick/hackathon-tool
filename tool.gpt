@@ -1,0 +1,4 @@
+Name: Hackathon Survey
+Description: Opens a form that will collect survey results for our Obot Hackathon
+
+#!/usr/bin/env python3 ${GPTSCRIPT_TOOL_DIR}/tool.py
